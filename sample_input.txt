@@ -1,0 +1,6 @@
+Contact our team for help:
+Sales: sales@example.com, Support: support@example.co.in
+Personal mail of Rahul is rahul.sharma99@gmail.com.
+Repeat entry: sales@example.com
+This line has no email, and neither does user@ or @nothing.
+Write to services@codealpha.tech or services.codealpha@gmail.com today.
